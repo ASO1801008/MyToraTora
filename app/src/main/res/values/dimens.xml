@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Button_width">100dp</dimen>
+    <dimen name="Button_height">100dp</dimen>
+    <dimen name="maiko_width">200dp</dimen>
+    <dimen name="maiko_height">200dp</dimen>
+    <dimen name="text_width">150dp</dimen>
+    <dimen name="text_height">30dp</dimen>
+</resources>
